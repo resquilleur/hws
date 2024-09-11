@@ -16,4 +16,3 @@
 |---|-------------------|----------|---------|---------------------------------------------|
 | 1 | Q-Learning        | +        | -       | homeworks/homework_1/taxi_v3_sarsamax.ipynb |
 | 2 | DQN               | +        | -       | homeworks/homework_2/DQN.ipynb              |
-|
